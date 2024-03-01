@@ -1,9 +1,10 @@
-![cover](github/cover.gif)
 
 # React Shop
 [<------------Go to page------------>](https://react-shop-portfolio.netlify.app)
 
-## Technologies used in project
+## Technologies used in project![Uploading screen1.png…]()
+![screen3](https://github.com/anti0328/wagrown/assets/161647090/14602cc3-5cde-458c-a0cc-e956d3146ea6)
+
 
 > ⭐ React  
 > :star: React-Router  
